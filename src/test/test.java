@@ -1,5 +1,9 @@
 package test;
 
-public class test {
+import org.omg.Messaging.SyncScopeHelper;
 
+public class test {
+   public static void main(String[] args) {
+	System.out.println();
+}
 }
